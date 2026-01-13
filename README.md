@@ -7,10 +7,11 @@ I'm completing my thesis under the supervision of David Friedman, at the [Friedm
 
 I aspire to become a clinician-researcher. See more of our publications on my [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
 
-Outside of medicine, I'm an amateur photographer and love making espresso, playing tennis or visiting a Boston museum with my wife.
+Outside of medicine, I'm an amateur photographer (see below) and love making espresso, playing tennis or visiting a Boston museum with my wife.
 
 [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
 [X](https://x.com/andresinzunzamd)
 [LinkedIn](www.linkedin.com/in/andresinzunza)
 
 
+![Image_1](1.jpg)
