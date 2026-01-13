@@ -13,7 +13,7 @@ Outside of medicine, I'm an [amateur photographer](https://github.com/andresinzu
 
 •[X](https://x.com/andresinzunzamd)
 
-•[LinkedIn](https://)linkedin.com/in/andresinzunza)
+•[LinkedIn](https://linkedin.com/in/andresinzunza)
 
 •[Photo repository](https://github.com/andresinzunza/Photography?tab=readme-ov-file#readme)
 
