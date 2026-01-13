@@ -7,14 +7,15 @@ I'm completing my thesis under the supervision of David Friedman, at the [Friedm
 
 I aspire to become a clinician-researcher. See more of our publications on my [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
 
-Outside of medicine, I'm an amateur photographer (see below) and love making espresso, playing tennis or visiting a Boston museum with my wife.
+Outside of medicine, I'm an [amateur photographer](https://github.com/andresinzunza/Photography?tab=readme-ov-file#readme) (see below) and love making espresso, playing tennis or visiting a Boston museum with my wife.
 
-[Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675)
+•[Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675)
 
-[X](https://x.com/andresinzunzamd)
+•[X](https://x.com/andresinzunzamd)
 
-[LinkedIn](www.linkedin.com/in/andresinzunza)
+•[LinkedIn](www.linkedin.com/in/andresinzunza)
 
+•[Photo repository](https://github.com/andresinzunza/Photography?tab=readme-ov-file#readme)
 
 ![Image_1](1.jpg)
 ![Image_2](15.jpg)
@@ -22,6 +23,4 @@ Outside of medicine, I'm an amateur photographer (see below) and love making esp
 ![Image_4](18.jpg)
 ![Image_5](2.jpg)
 ![Image_6](37.jpg)
-![Image_7](Vallarta-2.jpg)
-![Image_8](38.jpg)
 
