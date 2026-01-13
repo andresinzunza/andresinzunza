@@ -13,7 +13,7 @@ Outside of medicine, I'm an amateur B&W [photographer](https://github.com/andres
 
 •[Follow me on X](https://x.com/andresinzunzamd)
 
-•[Lets Connect in LinkedIn](https://linkedin.com/in/andresinzunza)
+•[Connetct on LinkedIn](https://linkedin.com/in/andresinzunza)
 
 •[Github Photo repository](https://github.com/andresinzunza/Photography?tab=readme-ov-file#readme)
 
