@@ -19,7 +19,7 @@ Outside of medicine, I'm an amateur photographer (see below) and love making esp
 ![Image_3](17.jpg)
 ![Image_4](18.jpg)
 ![Image_5](2.jpg)
-![Image_6](ColibriB&W.jpg)
+![Image_6](Colibri_B&W.jpg)
 ![Image_7](Vallarta-2.jpg)
-![Image_8](TeatroDegolladoFinal.jpg)
+![Image_8](Teatro_Degollado_Final.jpg)
 
