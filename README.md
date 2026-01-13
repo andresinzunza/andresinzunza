@@ -3,7 +3,7 @@
 My work focuses on the intersection of visual field testing and neuro-ophthalmology. I'm a physician by training, currently applying to Neurology residency. 
 
 I'm currently a Master's student at Harvard University, where I'm concentrating in Clinical Trials.
-I'm completing my thesis under the supervision of David Friedman, at the Friedman Lab [Friedman Lab](https://advances.massgeneral.org/ophthalmology/video.aspx?id=1176) at Mass Eye and Ear/MGB, where we are looking at novel modalities of screening for Glaucoma [Clinical Trials](https://clinicaltrials.gov/study/NCT06882356) 
+I'm completing my thesis under the supervision of David Friedman, at the [Friedman Lab](https://advances.massgeneral.org/ophthalmology/video.aspx?id=1176) at Mass Eye and Ear/MGB, where we are looking at novel modalities of screening for Glaucoma [Clinical Trials](https://clinicaltrials.gov/study/NCT06882356) 
 
 I would like to become a physician researcher.
 
