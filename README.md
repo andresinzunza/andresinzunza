@@ -5,7 +5,7 @@ I'm a physician by training, currently applying to Neurology residency. My resea
 I'm a Master's student at Harvard University, where I'm concentrating in Clinical Investigation & Clinical Trials.
 I'm completing my thesis under the supervision of David Friedman, at the [Friedman Lab](https://advances.massgeneral.org/ophthalmology/video.aspx?id=1176) at Mass Eye and Ear/MGB, where we are looking at [novel modalities of screening for glaucoma](https://clinicaltrials.gov/study/NCT06882356) 
 
-I aspire to become a clinician-researcher. See more of my publications [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
+I aspire to become a clinician-researcher. See more of my publications [here](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
 
 Outside of medicine, I'm an [amateur photographer](https://github.com/andresinzunza/Photography/tree/main#photography) (see below) and love making espresso, playing tennis or visiting a Boston museum with my wife.
 
