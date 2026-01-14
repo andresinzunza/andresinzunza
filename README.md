@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center"> ¡Hola! 👋</h2>
 
 <p align="center">
   Physician · Clinical Researcher · Neurology Applicant
