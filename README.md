@@ -8,7 +8,7 @@ I am a Master’s student at Harvard University, concentrating in Clinical Inves
 
 I aspire to become a clinician-researcher. A list of my publications is available on [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
 
-Outside of medicine, I am an [amateur B&W photographer](https://andresinzunza.github.io/Photography/) (see below). I also enjoy making espresso, playing tennis, and visiting Boston museums with my wife.
+Outside of medicine, I am an [amateur B&W photographer](https://andresinzunza.github.io/Photography/). I also enjoy making espresso, playing tennis, and visiting Boston museums with my wife.
 
 ### Connect
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675)  
