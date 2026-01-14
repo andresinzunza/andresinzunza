@@ -3,14 +3,12 @@
   <img src="19.jpg">
 
 </p>
-
----
-• [CV](https://harvard.academia.edu/AndresInzunza/CurriculumVitae)
-• [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675)
 ---
 <h2 align="center"> 👋 ¡Hola! </h2>
 
 ---
+• [CV](https://harvard.academia.edu/AndresInzunza/CurriculumVitae)
+• [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675)
 
 I’m a physician currently applying to **Neurology residency**, with research interests in **visual field testing**, **neuro-ophthalmology**, and **glaucoma**.
 
