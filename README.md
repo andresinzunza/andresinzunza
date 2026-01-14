@@ -25,8 +25,8 @@ I also enjoy making espresso, playing tennis, and visiting Boston museums with m
 ---
 
 <p align="center">
-  <img src="37.jpg" width="22%">
-  <img src="17.jpg" width="22%">
-  <img src="15.jpg" width="22%">
-  <img src="18.jpg" width="22%">
+  
+  <img src="17.jpg" width="33%">
+  <img src="15.jpg" width="33%">
+  <img src="18.jpg" width="33%">
 </p>
