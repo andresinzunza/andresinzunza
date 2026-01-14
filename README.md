@@ -9,7 +9,7 @@
 ---
 I’m a physician currently applying to **Neurology** residency, with research interests in **visual field testing, neuro-ophthalmology, and glaucoma**.
 
-I'm a student at **Harvard** where I'm completing the Master's in **Clinical Investigation**. I'm doing thesis work under the direction of David Friedman, at the **[Friedman Lab]**(https://advances.massgeneral.org/ophthalmology/video.aspx?id=1176) (Mass Eye and Ear / Mass General Brigham). Our work focuses on [novel modalities for glaucoma screening](https://clinicaltrials.gov/study/NCT06882356).
+I'm a student at **Harvard** where I'm completing the Master's in **Clinical Investigation**. I'm doing thesis work under the direction of David Friedman, at the [Friedman Lab](https://advances.massgeneral.org/ophthalmology/video.aspx?id=1176) (Mass Eye and Ear / Mass General Brigham). Our work focuses on [novel modalities for glaucoma screening](https://clinicaltrials.gov/study/NCT06882356).
 
 I aspire to become a clinician–researcher. Here is a link to my [CV](https://harvard.academia.edu/AndresInzunza/CurriculumVitae) and a [list of my publications](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
 
