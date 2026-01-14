@@ -15,10 +15,8 @@ Outside of medicine, I am an [amateur B&W photographer](https://andresinzunza.gi
 - 📷 [Photography Repository](https://andresinzunza.github.io/Photography/)
 
 ---
-
-![Image_2](15.jpg)
 ![Image_3](17.jpg)
+![Image_2](15.jpg)
 ![Image_4](18.jpg)
-![Image_5](2.jpg)
 ![Image_6](37.jpg)
 
