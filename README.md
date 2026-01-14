@@ -5,6 +5,9 @@
 </p>
 
 ---
+● [CV](https://harvard.academia.edu/AndresInzunza/CurriculumVitae
+● [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
+---
 <h2 align="center"> 👋 ¡Hola! </h2>
 
 ---
@@ -13,7 +16,7 @@ I’m a physician currently applying to **Neurology residency**, with research i
 
 I'm a student at **Harvard University** where I'm completing the Master's in Clinical Investigation. I'm doing thesis work under the direction of **David Friedman**, at the [Friedman Lab](https://advances.massgeneral.org/ophthalmology/video.aspx?id=1176) (Mass Eye and Ear / Mass General Brigham). Our work focuses on [novel modalities for glaucoma screening](https://clinicaltrials.gov/study/NCT06882356).
 
-I aspire to become a **clinician–researcher**. A list of my publications is available on [Google Scholar](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
+I aspire to become a **clinician–researcher**. 
 
 Outside of medicine, I'm an [amateur B&W photographer](https://andresinzunza.github.io/Photography/) (see below).  
 I also enjoy making espresso, playing tennis, and visiting Boston museums with my wife.
