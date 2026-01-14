@@ -1,9 +1,5 @@
 <h2 align="center"> ¡Hola! 👋</h2>
 
-<p align="center">
-  Physician · Clinical Researcher · Neurology Applicant
-</p>
-
 ---
 
 I’m a physician currently applying to **Neurology residency**, with research interests in **visual field testing**, **neuro-ophthalmology**, and **glaucoma**.
