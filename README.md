@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="37.jpg" width="65%">
+  <img src="37.jpg">
 </p>
 
 <h2 align="center">Hi there 👋</h2>
@@ -23,7 +23,7 @@ I also enjoy making espresso, playing tennis, and visiting Boston museums with m
 
 ---
 
-### 🔗 Connect
+### Connect
 
 <p align="center">
   🎓 <a href="https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675">Google Scholar</a> ·
