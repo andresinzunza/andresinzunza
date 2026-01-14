@@ -1,3 +1,5 @@
+![Image_6](37.jpg)
+
 ## Hi there 👋
 
 I’m a physician, currently applying to Neurology residency, with research interests in visual field testing, neuro-ophthalmology and glaucoma.
@@ -18,5 +20,5 @@ Outside of medicine, I am an [amateur B&W photographer](https://andresinzunza.gi
 ![Image_3](17.jpg)
 ![Image_2](15.jpg)
 ![Image_4](18.jpg)
-![Image_6](37.jpg)
+
 
