@@ -13,7 +13,7 @@ I'm a grad student at **Harvard** where I'm completing the Master's in **Clinica
 
 I aspire to become a clinician–researcher. Here is a link to my [CV](https://harvard.academia.edu/AndresInzunza/CurriculumVitae) and a [list of my publications](https://scholar.google.com/citations?user=b3BRcFsAAAAJ&hl=en&inst=7575085548378563675).
 
-Outside of medicine, I'm an [amateur B&W photographer](https://andresinzunza.github.io/Photography/) (see below).  
+Outside of medicine, I'm an amateur B&W photographer (see below).  
 I also enjoy making espresso, playing tennis, and visiting Boston museums with my wife.
 
 ---
