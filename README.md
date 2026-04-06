@@ -7,7 +7,7 @@
 <h2 align="center"> 👋 ¡Hola! </h2>
 
 ---
-I’m a physician currently applying to **Neurology** residency, with research interests in **visual field testing, neuro-ophthalmology, and glaucoma**.
+I’m a physician and incoming **Neurology** resident at Baylor College of Medicine, Houston. My research interests are **visual field testing, neuro-ophthalmology, and glaucoma**. 
 
 I'm a grad student at **Harvard** where I'm completing the Master's in **Clinical Investigation**. I'm doing thesis work under the direction of David Friedman, at the [Friedman Lab](https://advances.massgeneral.org/ophthalmology/video.aspx?id=1176) (Mass Eye and Ear / Mass General Brigham). Our work focuses on [novel modalities for glaucoma screening](https://clinicaltrials.gov/study/NCT06882356).
 
